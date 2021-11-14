@@ -1,0 +1,42 @@
+#M,#L,#r{
+ margin-left: 50px;
+}
+#fname,#mname,#lname,#pass,#rpass{
+    padding:5px;
+}
+#cname{
+    width: 52%;
+    padding:5px;
+}
+#S{
+    margin-left: 150px;
+}
+#email{
+    width: 56%;
+    padding:5px;
+}
+#B{
+    margin-left: 30px;
+    padding: 5px;
+    background-color: green;
+}
+body{
+    border:1px solid black;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url("https://media.istockphoto.com/photos/button-on-computer-keyboard-picture-id1146311489?b=1&k=20&m=1146311489&s=170667a&w=0&h=Pi3Qht78k6keoQLFHxCRZMp4eINefsdQOTnlDkNgFaA=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.reg{
+    color:red;
+}
+.col{
+     color:white;
+}
+.check{
+    color:white;
+}
